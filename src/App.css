@@ -1,0 +1,24 @@
+body {
+  background-color:rgb(186, 189, 178);
+}
+.button-show {
+  border-radius: 20px;
+  background-color: royalblue;
+  width: 50 px;
+
+}
+
+.button-show : hover{
+  background-color : blue;
+}
+
+.button-show1 {
+  border-radius: 20px;
+  background-color: red;
+  width: 90 px;
+
+}
+
+.button-show1 : hover{
+  background-color : blue;
+}
